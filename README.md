@@ -1,5 +1,5 @@
 # Desafio-Fibonacci-JAVA
-O desafio foi desenvol pela Condenation - Acelera DEV JAVA 2020
+O desafio foi desenvol pela Codenation - Acelera DEV 2020.
 
 Fibonacci
 Faça um método @Desafio("Fibonacci") que retorne uma lista java.util.List com os primeiros números Integer da série de Fibonacci até 350.
