@@ -1,10 +1,10 @@
-package br.com.Codenation;
+package br.com.desafioexe;
 
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class DesafioCodenation {
+public class DesafioApplication {
 
     public static List<Integer> fibonacci() {
         List<Integer> arrayFibonacci = new ArrayList();
@@ -27,7 +27,7 @@ public class DesafioCodenation {
 }
 
         public static Boolean isFibonacci(Integer number) {
-            List<Integer>fibonacciList = new ArrayList();
+            List<Integer> fibonacciList = new ArrayList();
             fibonacciList = fibonacci();
             Boolean isNumberOnList = fibonacciList.contains(number);
 
