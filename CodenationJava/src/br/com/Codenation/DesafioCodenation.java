@@ -21,11 +21,9 @@ public class DesafioApplication {
             arrayFibonacci.add(f3);
         }
 
-
     return arrayFibonacci;
 
 }
-
         public static Boolean isFibonacci(Integer number) {
             List<Integer> fibonacciList = new ArrayList();
             fibonacciList = fibonacci();
