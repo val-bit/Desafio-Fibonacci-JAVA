@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/static/v1?label=JAVA&message=framework&color=red&style=for-the-badge&logo=JAVA)
+<h1 align="center">![Badge](https://img.shields.io/static/v1?label=JAVA&message=framework&color=red&style=for-the-badge&logo=JAVA)</h1>
 
 <h1 align="center"> Desafio Fibonacci - JAVA :trophy: :checkered_flag: </h1>
 <h2 align="center"> Desafio Fibonacci Acelera DEV JAVA 2020.</h2> <h3 align="justify">  O intuito com a atividade era
